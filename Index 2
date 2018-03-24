@@ -4,11 +4,12 @@
   <link rel="stylesheet" type="text/css" href="styles/style.css">
 </head>
 <body>
-  <script src="Scripts/script.js"></script>
 
 <h1>Hello</h1>
 <p>This worked.</p>
-<img src="https://www.flickr.com/photos/dcoetzee/3619186766" alt="ducky">
+<img src="mallard-web.jpg" alt="ducky">
+<script src="Scripts/script.js"></script>
+
 </body>
 
 </html>
